@@ -28,7 +28,6 @@ I am always open to collaboration and new opportunities. If you have any questio
 
 Feel free to use these contact details for any inquiries or discussions related to data science, machine learning, or AI. I look forward to connecting with you! 🌟🤝✨
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
