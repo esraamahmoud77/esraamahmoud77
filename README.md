@@ -1,16 +1,30 @@
-### Hi there 👋
+# Esraa Mahmoud ✨👩‍💻📊
 
-<!--
-**esraamahmoud77/esraamahmoud77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist | AI and Data Science Master's Student 🌟🔬🎓
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am Esraa Mahmoud, a passionate data scientist and a Master's student in AI and Data Science at Queen's University. 🤩💻📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🙋‍♀️
+
+I have a strong background in data analysis, machine learning, and statistical modeling. My expertise lies in leveraging data-driven approaches to gain meaningful insights and solve complex problems. I am dedicated to applying my skills to real-world challenges and making a positive impact through data-driven decision making. 💪📊🔍
+
+### Projects 🚀🔬
+
+In this repository, you will find a collection of my data science projects. Each project demonstrates my knowledge and skills in data preprocessing, exploratory data analysis, machine learning modeling, and model evaluation. Feel free to explore the code and accompanying documentation. 📁🔬📝
+
+### Education 🎓📚
+
+- Master's in AI and Data Science, Queen's University (in progress) 🎓
+- Bachelor's in Computer Science, Mansoura University 🎓
+
+Thank you for providing your email and LinkedIn account details. Here's an updated version of the contact section with your information:
+
+### Contact Me 📩📲
+
+I am always open to collaboration and new opportunities. If you have any questions, ideas, or would like to connect, please feel free to reach out to me through the following channels:
+
+- Email: [esraa.shalaby77@gmail.com](mailto:esraa.shalaby77@gmail.com) 📧
+- LinkedIn: [Esraa Mahmoud](https://www.linkedin.com/in/esraa-mahmoud77/) 💼
+
+Feel free to use these contact details for any inquiries or discussions related to data science, machine learning, or AI. I look forward to connecting with you! 🌟🤝✨
+
