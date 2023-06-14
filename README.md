@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am Esraa Mahmoud, a passionate data scientist an
 
 ### About Me 🙋‍♀️
 
-I have a strong background in data analysis, machine learning, and statistical modeling. My expertise lies in leveraging data-driven approaches to gain meaningful insights and solve complex problems. I am dedicated to applying my skills to real-world challenges and making a positive impact through data-driven decision making. 💪📊🔍
+I have a strong background in data analysis, machine learning, and statistical modeling. My expertise lies in leveraging data-driven approaches to gain meaningful insights and solve complex problems. I am dedicated to applying my skills to real-world challenges and making a positive impact through data-driven decision making. 📊🔍
 
 ### Projects 🚀
 
