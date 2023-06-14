@@ -2,7 +2,7 @@
 
 ## Data Scientist | AI and Data Science Master's Student 🎓
 
-Welcome to my GitHub profile! I am Esraa Mahmoud, a passionate data scientist and a Master's student in AI and Data Science at Queen's University. 🤩💻📈
+Welcome to my GitHub profile! I am Esraa Mahmoud, a passionate data scientist and a Master's student in AI and Data Science at Queen's University. 
 
 ### About Me 🙋‍♀️
 
@@ -10,7 +10,7 @@ I have a strong background in data analysis, machine learning, and statistical m
 
 ### Projects 🚀
 
-In this repository, you will find a collection of my data science projects. Each project demonstrates my knowledge and skills in data preprocessing, exploratory data analysis, machine learning modeling, and model evaluation. Feel free to explore the code and accompanying documentation. 📁🔬📝
+In this repository, you will find a collection of my data science projects. Each project demonstrates my knowledge and skills in data preprocessing, exploratory data analysis, machine learning modeling, and model evaluation. Feel free to explore the code and accompanying documentation. 📝
 
 ### Education 🎓📚
 
