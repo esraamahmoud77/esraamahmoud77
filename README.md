@@ -1,8 +1,8 @@
 # Esraa Mahmoud 
 
-## Data Scientist | AI and Data Science Master's Student 🎓
+## Data Scientist | M.S. Artificial Intelligence & Data Science, Queen's University, Canada.🎓
 
-Welcome to my GitHub profile! I am Esraa Mahmoud, a passionate data scientist and a Master's student in AI and Data Science at Queen's University. 
+Welcome to my GitHub profile! I am Esraa Mahmoud, a passionate data scientist and a Master's holder in AI and Data Science from Queen's University. 
 
 ### About Me 🙋‍♀️
 
@@ -14,10 +14,8 @@ In this repository, you will find a collection of my data science projects. Each
 
 ### Education 🎓📚
 
-- Master's in AI and Data Science, Queen's University (in progress) 🎓
-- Bachelor's in Computer Science, Mansoura University 🎓
-
-Thank you for providing your email and LinkedIn account details. Here's an updated version of the contact section with your information:
+- M.S. AI and Data Science, Queen's University, Canada 🎓
+- B.S. in Computer Science, Mansoura University, Egypt 🎓
 
 ### Contact Me 📩
 
